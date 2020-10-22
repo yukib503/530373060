@@ -32,10 +32,10 @@ define('BDUSS', 'EFXYW9ERnFnRzlLT1BWRGIwV2Zlfkc0RXBCODF3LVU5VzE4aH5-ZWJMUzhqTGhm
 define('STOKEN', 'f91a1bdeaec1b04fe0ece40b6328647369b456d1d08ca1facdce094f0ff8dfd0'); // 你的 STOKEN
 define('SVIP_BDUSS', 'EFXYW9ERnFnRzlLT1BWRGIwV2Zlfkc0RXBCODF3LVU5VzE4aH5-ZWJMUzhqTGhmSVFBQUFBJCQAAAAAAQAAAAEAAABXJSInYWNoYWNuMTE3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALz~kF-8~5Bfd'); // 你的 SVIP BDUSS
 define('IsCheckPassword', true); // 设为 true 则要求密码为变量 Password 的值，否则提示密码错误；设为 false 则不需要密码。
-define('Password', '1000'); // 在下载器首页需要输入的密码，如果将 IsCheckPassWord 设为 false 则无论设置什么都会失效。
+define('Password', '5303'); // 在下载器首页需要输入的密码，如果将 IsCheckPassWord 设为 false 则无论设置什么都会失效。
 define('Footer', ''); // 页脚统计代码放置处
 
-define('APP_ID', '498065'); // 推荐应用ID：498065、309847、778750(油猴脚本默认)、250528(官方)、265486、266719；
+define('APP_ID', '250528'); // 推荐应用ID：498065、309847、778750(油猴脚本默认)、250528(官方)、265486、266719；
 define('DEBUG', false);//WARNING! 请勿随意打开此模式，可能造成你的信息泄露。 打开此模式前请先修改密码。
 
 
